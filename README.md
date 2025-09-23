@@ -1,7 +1,4 @@
-<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://kevinsoto.netlify.app/logo.png" alt="Kevin Soto Logo" width="50" height="50" />
-  Hi, I'm Kevin Soto
-</h1>
+# <img src="https://kevinsoto.netlify.app/logo.png" alt="Kevin Soto Logo" width="25" height="25" /> Hi, I'm Kevin Soto
 
 **Front-End Developer**
 
