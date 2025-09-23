@@ -1,4 +1,4 @@
-# <img src="https://tu-sitio.com/logo.png" alt="Kevin Soto Logo" width="40" height="40" /> Hi, I'm Kevin Soto
+# <img src="[https://tu-sitio.com/logo.png](https://kevinsoto.netlify.app/logo.png)" alt="Kevin Soto Logo" width="40" height="40" /> Hi, I'm Kevin Soto
 
 **Front-End Developer**
 
