@@ -1,7 +1,18 @@
-# 👋 Hi, I'm Kevin Soto
-**Systems Engineer & Front-End Developer**
+# <img src="https://tu-sitio.com/logo.png" alt="Kevin Soto Logo" width="40" height="40" /> Hi, I'm Kevin Soto
 
-🚀 Crafting modern and interactive web applications with a focus on clean code, UX, and scalability.
+**Front-End Developer**
+
+🎓 Graduated in **Systems Engineering**  
+🚀 Crafting modern and interactive web applications with a focus on clean code, UX, and scalability.  
+💡 Currently expanding my skills in **backend development** to become a **full-stack developer**, exploring API creation and backend architectures while building on my front-end expertise.
+
+---
+
+## 🎓 Certifications
+
+- [React JS](https://pub.coderhouse.com/legacy-certificates/6811e428395778cf5f777ce6?lang=es) – Coderhouse
+- [JavaScript](https://pub.coderhouse.com/certificates/f737ea62-43dd-4656-8af1-41c1e93a32c4?v=1) – Coderhouse
+- [Desarrollo Web](https://pub.coderhouse.com/legacy-certificates/67805aafe9330b55412d1ec4?lang=es) – Coderhouse
 
 ---
 
@@ -29,63 +40,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projects
 
-<div align="center">
-  
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinsoto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsoto&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🛒 [E-Commerce Platform](https://github.com/kevinsoto/ecommerce-platform)
-Modern e-commerce solution built with React, Node.js, and PostgreSQL
-- **Tech Stack:** React, TypeScript, Node.js, Express, PostgreSQL
-- **Features:** Payment integration, inventory management, responsive design
-
-### 📱 [Task Management App](https://github.com/kevinsoto/task-manager)
-Full-stack task management application with real-time updates
-- **Tech Stack:** Vue.js, Firebase, Sass
-- **Features:** Real-time sync, drag & drop, team collaboration
-
-### 🌤️ [Weather Dashboard](https://github.com/kevinsoto/weather-dashboard)
-Interactive weather dashboard with geolocation and forecasts
-- **Tech Stack:** React, TypeScript, Weather API
-- **Features:** Geolocation, 7-day forecast, responsive charts
+- **[Quipana](https://quipana.com)** – Enterprise-ready platform with Vue 4, PrimeVue, TypeScript, Tailwind & Bootstrap.
+- **[Product Manager](https://rest-apis-typescript-frontend-eta-eight.vercel.app)** – Full-stack CRUD app with PERN stack & AI chat powered by n8n.
+- **[React E-commerce](https://silly-entremet-92b88c.netlify.app)** – Custom UI, Sass, hooks & Firebase integration.
+- **[Responsive Web Design](https://spontaneous-kitten-423a21.netlify.app)** – HTML/CSS/Sass site, SEO optimized & fully responsive.
+- **[Veterinaria PetCity](https://veterinaria-petcity.netlify.app/petshop)** – Collaborative web + e-commerce project using React & Sass.
+- **Mini Projects** – Tip Calculator, Veterinary Patient Manager, GuitarLA Store, Rock & EDM Festival site.
 
 ---
 
-## 🎯 What I'm Working On
+## 📫 Connect with me
 
-- 🔭 Building scalable web applications with React and Node.js
-- 🌱 Learning cloud architecture and DevOps practices  
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about JavaScript, React, Vue, or web development in general
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinsoto13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
 
 ---
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-soto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kevinsoto.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kevinsoto)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinsoto&style=for-the-badge&color=blue" alt="Profile Views">
-</div>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/kevinsoto">Kevin Soto</a></i>
-</div>
