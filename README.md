@@ -42,7 +42,7 @@
 
 ## 📂 Projects
 
-- **[Quipana](https://quipana.com)** – Enterprise-ready platform with Vue 4, PrimeVue, TypeScript, Tailwind & Bootstrap.
+- **[Quipana](https://quipana.com)** – Enterprise-ready platform with Vue 3, PrimeVue, TypeScript, Tailwind & Bootstrap.
 - **[Product Manager](https://rest-apis-typescript-frontend-eta-eight.vercel.app)** – Full-stack CRUD app with PERN stack & AI chat powered by n8n.
 - **[React E-commerce](https://silly-entremet-92b88c.netlify.app)** – Custom UI, Sass, hooks & Firebase integration.
 - **[Responsive Web Design](https://spontaneous-kitten-423a21.netlify.app)** – HTML/CSS/Sass site, SEO optimized & fully responsive.
