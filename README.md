@@ -23,6 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -33,7 +34,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Automation
+### Tools & Automation / QA
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -42,8 +44,9 @@
 
 ## 📂 Projects
 
-- **[Quipana](https://quipana.com)** – Enterprise-ready platform with Vue 3, PrimeVue, TypeScript, Tailwind & Bootstrap.
+- **[Quipana](https://quipana.com)** – Enterprise-ready platform with Vue 3, PrimeVue 4, TypeScript, Tailwind & Bootstrap.
 - **[Product Manager](https://rest-apis-typescript-frontend-eta-eight.vercel.app)** – Full-stack CRUD app with PERN stack & AI chat powered by n8n.
+- **[SportKS](https://expo.dev/accounts/sotoorta93/projects/app-react-native/builds/d5deb393-b67a-4f10-bfb1-056310d6a1c6)** - Android mobile app built with **React Native** that displays live sports matches and scores through API integration. Includes user authentication and live data updates. Currently available for Android *(credentials required for testing)*.
 - **[React E-commerce](https://silly-entremet-92b88c.netlify.app)** – Custom UI, Sass, hooks & Firebase integration.
 - **[Responsive Web Design](https://spontaneous-kitten-423a21.netlify.app)** – HTML/CSS/Sass site, SEO optimized & fully responsive.
 - **[Veterinaria PetCity](https://veterinaria-petcity.netlify.app/petshop)** – Collaborative web + e-commerce project using React & Sass.
